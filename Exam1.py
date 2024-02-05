@@ -31,24 +31,3 @@ print("圓形的面積 : ", A.getArea())
 A.setRadius(10)
 print("圓形的直徑 : ", A.getDiameter())
 
-
-
-
-
-                       
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
